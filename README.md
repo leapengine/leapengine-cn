@@ -2,9 +2,9 @@
   <a href="https://leapengine.io"><img width="300" src="https://raw.githubusercontent.com/leapengine/leapengine-cn/main/leapengine-github.png" /></a>
 </div>
 
-# 多人实时协同，5分钟极速实现!
+# Make your product multiplayer, in just 5 minutes!
 
-欢迎访问 leapengine 的 GitHub 项目主页!
+Welcome to the Leapengine GitHub repo!
 
 This repo serves as our primary way of keeping track of bugs & new feature request. If you have any questions/ideas/feedback, feel free to open an issue and get help with GitHub discussions!
 
